@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/03_B3_TrienkhaiAdapter.iml" filepath="$PROJECT_DIR$/03_B3_TrienkhaiAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_B4_TrienkhaiProxyPattern.iml" filepath="$PROJECT_DIR$/04_B4_TrienkhaiProxyPattern.iml" />
     </modules>
   </component>
 </project>
